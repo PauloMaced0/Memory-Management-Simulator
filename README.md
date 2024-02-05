@@ -112,7 +112,7 @@ git config --global user.email "«your email»"
 
 ## Testing the code
 
-On the root project:
+On the project root:
 ```
 ./test.sh
 ```
