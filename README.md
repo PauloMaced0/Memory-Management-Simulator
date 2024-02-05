@@ -112,9 +112,9 @@ git config --global user.email "«your email»"
 
 ## Testing the code
 
-After building the code, a program will be put in the <tt>«your-project»/bin</tt> directory.
-
-Of course you can write your own testing programs. Do not forget to edit appropriately
-the main <tt>CMakeList.txt</tt> file.
+On the root project:
+```
+./test.sh
+```
 
 
